@@ -7,15 +7,7 @@ site_url = "https://blog.tgfp.me"
 copyright = """
 Copyright &copy; 2025 John Sturgeon
 """
-# nav = [
-#   { "Get started" = "index.md" },
-#   { "Markdown in 5min" = "markdown.md" },
-# ]
-
 [project.theme]
-
-#favicon = "assets/images/favicon.png"
-
 language = "en"
 features = [
     "announce.dismiss",
@@ -35,7 +27,6 @@ features = [
     "navigation.tracking",
     "search.highlight",
 ]
-
 [[project.theme.palette]]
 scheme = "default"
 toggle.icon = "lucide/sun"

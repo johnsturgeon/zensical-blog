@@ -1,4 +1,4 @@
-## About Me
+# About Me
 
 Retired software engineer, contributor to open source projects when I can. Working on way too many projects and hobbies, and making notes here along the way.
 
