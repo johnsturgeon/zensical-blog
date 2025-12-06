@@ -8,7 +8,7 @@ For full documentation visit [zensical.org](https://zensical.org/docs/).
 
 ## Commands
 
-* [`zensical new`][new] - Create a newer project
+* [`zensical new`][new] - Create a newest project
 * [`zensical serve`][serve] - Start local web server
 * [`zensical build`][build] - Build your site
 
